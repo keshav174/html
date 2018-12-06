@@ -1,6 +1,7 @@
 a{
-    color: red;text-decoration: none;
+    color: blue;text-decoration: none;
 }
-h1{
+h1,p,img{
     font-family: sans-serif;
+    margin-left:50px;
 }
